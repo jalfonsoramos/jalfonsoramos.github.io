@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Hello Worlds"
-permalink: /test/hello-world
+title: "Hello World"
+permalink: /hello-world
 ---
 
-Hello world from git pages
+Hello world from GitHub Pages.
