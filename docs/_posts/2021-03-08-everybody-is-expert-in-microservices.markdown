@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Everybody know Microservices"
-date:   2021-03-08 17:00:00 -0800
+title:  "Everybody is expert on Microservices"
+date:   2021-03-08 23:00:00 -0800
 categories: software-architect, personal
 ---
 
-Microservices, that fancy word everybody is using in IT these days....
+Microservices, that fancy word everybody is using in IT...
 
 Once I heard BRM of my employer said "We have around 100 architects with expertise in microservices available to work" in front a potential new customer, after he looked at me for a moment and with a smile in his face, he asked to the guy that presumed that big statement "wow how did you achieve to have that amount of people ready to rock?"
 
