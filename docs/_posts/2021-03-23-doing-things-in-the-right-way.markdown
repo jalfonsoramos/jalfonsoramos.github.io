@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making things in the right way."
+title:  "Doing things in the right way."
 date:   2021-03-23 22:00:00 -0800
 categories: software-architect, personal
 ---
