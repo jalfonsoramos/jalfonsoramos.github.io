@@ -7,4 +7,4 @@ categories: software-architect, personal
 
 Stop taking easy-way solutions that could be a big problem in the future just because business people ask to finish the projects on a thigh deadline or because they want to include last-minute features.
 
-Sacrificing quality, scalability, maintainability, and all those non-functional requirements lead for sure a project to a disaster.
+Sacrificing quality, scalability, maintainability, and all those non-functional requirements lead for sure a project failure.
