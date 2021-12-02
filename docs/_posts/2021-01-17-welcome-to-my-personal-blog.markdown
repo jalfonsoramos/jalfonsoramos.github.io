@@ -6,6 +6,6 @@ categories: test
 ---
 Greetings user!
 
-Welcome to my personal blog and to my first post.
+Welcome to my personal blog and my first post.
 
 Let me introduce myself, my name is Alfonso Ramos. I am a Software Engineer with more than 10 years of experience in the Software Development industry… [working in progress]
