@@ -9,5 +9,3 @@ One of my goals of this 2022 is that I will switch my role back to be a develope
 Yes I like been a Software Architecture but I miss a lot write code and build applications. 
 
 Big changes are coming in the next weeks.
-
-...in progress...
