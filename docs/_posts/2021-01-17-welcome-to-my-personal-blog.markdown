@@ -4,8 +4,8 @@ title:  "Welcome to my personal blog!"
 date:   2021-01-17 17:00:00 -0800
 categories: test
 ---
-Greetings user!
+¡Saludos usuario!
 
-Welcome to my personal blog and my first post.
+Bienvenido a mi blog personal (y mi primera publicación).
 
-Let me introduce myself, my name is Alfonso Ramos. I am a Software Engineer with more than 10 years of experience in the Software Development industry… [working in progress]
+Permíteme presentarme, mi nombre es Alfonso Ramos, y soy un Software Engineer con más de 10 años de experiencia en la industria. 
