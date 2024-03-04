@@ -1,12 +1,10 @@
 {
     "spellright.language": [
-        "en",
         "es"
     ],
     "spellright.documentTypes": [
-        "markdown",
         "latex",
-        "plaintext"
-    ],
-    "cSpell.language": "en,es"
+        "plaintext",
+        "markdown"
+    ]
 }
