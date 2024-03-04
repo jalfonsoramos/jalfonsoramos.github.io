@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteger la integridad de las propiedades de un objeto"
+title: "Proteger la integridad de las propiedades"
 date: 2024-03-04 00:00:00 -0800
 categories: dotnet csharp oop
 ---
