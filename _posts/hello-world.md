@@ -1,6 +1,8 @@
 ---
+layout: ost
 title: Hello World
-date: 2024-07-06 22:00:00
+date:  2024-07-06 22:00:00 +0000
+last_modified_at: 2024-07-06 22:30:00 +0000
 categories: []
 tags: [test]
 ---
