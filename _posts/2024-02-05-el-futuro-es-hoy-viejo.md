@@ -1,6 +1,6 @@
 ---
 title: El futuro es hoy viejo
-categories: [random]
+categories: [blog post]
 tags: [chatGPT,AI,tecnología]
 ---
 
