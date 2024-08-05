@@ -14,3 +14,5 @@ Ese momento incómodo y embarazoso resonó en la habitación. Una sola frase, pr
 La lección que aprendimos fue clara: una persona sin entendimiento técnico puede terminar arruinando una oportunidad de este tipo. La falta de conocimiento sobre los detalles técnicos de un proyecto puede conducir a respuestas inexactas que afectan la credibilidad y la confianza del cliente.
 
 Esta experiencia, querido lector, nos recordó la importancia de la comunicación clara y precisa, así como la necesidad de contar con equipos capacitados y bien informados en todas las etapas de la negociación.
+
+Esta post fue originalmente publicado en [https://oldmanponcho.blogspot.com](https://oldmanponcho.blogspot.com/2024/03/100-ingenieros-expertos-en.html)

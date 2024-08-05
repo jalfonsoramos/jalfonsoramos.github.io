@@ -18,3 +18,6 @@ No sé cuánto tiempo había pasado cuando de pronto me desperté. Sentí que el
 Finalmente pude moverme e incorporarme rápidamente con un grito, encendí la lámpara que estaba al lado de la cama. La luz iluminó toda la habitación y pude ver que estaba solo. Salí de la habitación y encendí todas las luces del primer piso, buscando algún rastro de alguien que hubiera entrado a la casa, pero no encontré nada ni a nadie.
 
 Esa noche, experimenté "el se me subió el muerto" por primera vez. Pero, ¿y si no fue solo una sensación? ¿Y si algo realmente estuvo allí, acechando en la oscuridad de mi habitación?
+
+
+Esta post fue originalmente publicado en [https://oldmanponcho.blogspot.com](https://oldmanponcho.blogspot.com/2024/02/la-primera-vez-que-tuve-paralisis-de.html)
