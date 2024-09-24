@@ -225,3 +225,9 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-feed
+title: Alfonso Ramos
+description: El blog del viejo Poncho
+author: Alfonso Ramos
