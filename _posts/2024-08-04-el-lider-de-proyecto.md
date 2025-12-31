@@ -1,7 +1,7 @@
 ---
 title: El líder de proyecto
 categories: [blog post]
-tags: [memorias de un programador]
+tags: [memorias-de-un-programador]
 ---
 Recuerdo un proyecto en el que trabajábamos más de ocho horas diarias para cumplir con la fecha comprometida. Era un proyecto desafiante y mal estimado, pero en esos días aún estaba dispuesto a dar todo por el equipo. Finalmente, logramos la meta: liberamos a producción, y las felicitaciones de los altos mandos no tardaron en llegar. Recibimos correos y llamadas de reconocimiento, e incluso nos dieron una distinción frente a toda la empresa por nuestro arduo trabajo.
 

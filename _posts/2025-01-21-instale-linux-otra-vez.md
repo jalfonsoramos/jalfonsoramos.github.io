@@ -1,7 +1,7 @@
 ---
 title: Instale Linux otra vez
 categories: [blog post]
-tags: [linux,memorias de un programador]
+tags: [linux,memorias-de-un-programador]
 ---
 
 Instale [Linux Mint](https://www.linuxmint.com) en mi vieja laptop ASUS  después de (muchos) años de solo tener computadoras con Windows... y no me arrepiento.

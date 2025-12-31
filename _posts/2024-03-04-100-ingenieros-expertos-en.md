@@ -1,7 +1,7 @@
 ---
 title: 100 ingenieros expertos en microservicios
 categories: [blog post]
-tags: [memorias de un programador]
+tags: [memorias-de-un-programador]
 ---
 En uno de mis tantos viajes de trabajo tuve una experiencia peculiar que me gustaría compartir. Ocurrió durante una reunión con un cliente potencial, en la que se planteó una pregunta aparentemente simple, pero que tuvo un impacto significativo en nuestra interacción.
 
