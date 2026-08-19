@@ -1,0 +1,180 @@
+@use "colors/_frappe" as *;
+@use "sass:color";
+
+.highlight {
+  .hll {
+    background-color: $frappe-surface1;
+  }
+  background: color.adjust($frappe-surface0, $lightness: 5%);
+  .c {
+    color: $frappe-subtext1;
+    font-style: italic;
+  }
+  .err {
+    border: 1px solid $frappe-red;
+  }
+  .k {
+    color: $frappe-green;
+    font-weight: bold;
+  }
+  .o {
+    color: $frappe-subtext0;
+  }
+  .cm {
+    color: $frappe-subtext1;
+    font-style: italic;
+  }
+  .cp {
+    color: $frappe-peach;
+  }
+  .c1, .cs {
+    color: $frappe-subtext1;
+    font-style: italic;
+  }
+  .gd {
+    color: $frappe-maroon;
+  }
+  .ge {
+    font-style: italic;
+  }
+  .gr {
+    color: $frappe-red;
+  }
+  .gh {
+    color: $frappe-blue;
+    font-weight: bold;
+  }
+  .gi {
+    color: $frappe-green;
+  }
+  .go {
+    color: $frappe-subtext0;
+  }
+  .gp {
+    color: $frappe-blue;
+    font-weight: bold;
+  }
+  .gs {
+    font-weight: bold;
+  }
+  .gu {
+    color: $frappe-lavender;
+    font-weight: bold;
+  }
+  .gt {
+    color: $frappe-sky;
+  }
+  .kc, .kd, .kn {
+    color: $frappe-green;
+    font-weight: bold;
+  }
+  .kp {
+    color: $frappe-green;
+  }
+  .kr {
+    color: $frappe-green;
+    font-weight: bold;
+  }
+  .kt {
+    color: $frappe-peach;
+  }
+  .m {
+    color: $frappe-subtext0;
+  }
+  .s {
+    color: $frappe-pink;
+  }
+  .na {
+    color: $frappe-yellow;
+  }
+  .nb {
+    color: $frappe-green;
+  }
+  .nc {
+    color: $frappe-blue;
+    font-weight: bold;
+  }
+  .no {
+    color: $frappe-maroon;
+  }
+  .nd {
+    color: $frappe-peach;
+  }
+  .ni {
+    color: $frappe-subtext0;
+    font-weight: bold;
+  }
+  .ne {
+    color: $frappe-red;
+    font-weight: bold;
+  }
+  .nf {
+    color: $frappe-blue;
+  }
+  .nl {
+    color: $frappe-yellow;
+  }
+  .nn {
+    color: $frappe-blue;
+    font-weight: bold;
+  }
+  .nt {
+    color: $frappe-green;
+    font-weight: bold;
+  }
+  .nv {
+    color: $frappe-lavender;
+  }
+  .ow {
+    color: $frappe-peach;
+    font-weight: bold;
+  }
+  .w {
+    color: $frappe-subtext0;
+  }
+  .mf, .mh, .mi, .mo {
+    color: $frappe-subtext0;
+  }
+  .sb, .sc {
+    color: $frappe-pink;
+  }
+  .sd {
+    color: $frappe-pink;
+    font-style: italic;
+  }
+  .s2 {
+    color: $frappe-pink;
+  }
+  .se {
+    color: $frappe-peach;
+    font-weight: bold;
+  }
+  .sh {
+    color: $frappe-pink;
+  }
+  .si {
+    color: $frappe-lavender;
+    font-weight: bold;
+  }
+  .sx {
+    color: $frappe-green;
+  }
+  .sr {
+    color: $frappe-lavender;
+  }
+  .s1 {
+    color: $frappe-pink;
+  }
+  .ss {
+    color: $frappe-lavender;
+  }
+  .bp {
+    color: $frappe-green;
+  }
+  .vc, .vg, .vi {
+    color: $frappe-lavender;
+  }
+  .il {
+    color: $frappe-subtext0;
+  }
+}

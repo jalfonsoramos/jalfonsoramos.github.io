@@ -1,0 +1,32 @@
+@use "colors/_latte" as *;
+
+:root {
+  --base-color: #{$latte-blue};
+  --border: dashed 1px #{rgba($latte-blue, 1)};
+  --selection-background: #{rgba($latte-blue, 0.5)};
+  --selection-text: #{$latte-base};
+  --background-color: #{$latte-base};
+  --text-color: #{$latte-text};
+  --placeholder-color: #{$latte-subtext1};
+  --link-color: #{$latte-pink};
+  --inline-code-background: #{$latte-surface0};
+
+  --code-color-1: #{$latte-green};
+  --code-color-2: #{$latte-base};
+  --code-color-3: #{$latte-red};
+  --code-color-4: #{$latte-maroon};
+  --code-color-5: #{$latte-teal};
+  --code-color-6: #{$latte-sky};
+  --code-color-7: #{$latte-red};
+  --code-color-8: #{$latte-teal};
+  --code-color-9: #{$latte-blue};
+  --code-color-10: #{$latte-blue};
+  --code-color-11: #{$latte-base};
+  --code-color-12: #{$latte-red};
+  --code-color-13: #{$latte-teal};
+  --code-color-14: #{$latte-blue};
+  --code-color-15: #{$latte-red};
+  --code-color-16: #{$latte-teal};
+  --code-color-17: #{$latte-red};
+  --code-color-18: #{$latte-blue};
+}

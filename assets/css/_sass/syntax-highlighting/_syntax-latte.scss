@@ -1,0 +1,180 @@
+@use "colors/_latte" as *;
+@use "sass:color";
+
+.highlight {
+  .hll {
+    background-color: $latte-surface1;
+  }
+  background: color.adjust($latte-surface0, $lightness:5%);
+  .c {
+    color: $latte-subtext1;
+    font-style: italic;
+  }
+  .err {
+    border: 1px solid $latte-red;
+  }
+  .k {
+    color: $latte-green;
+    font-weight: bold;
+  }
+  .o {
+    color: $latte-subtext0;
+  }
+  .cm {
+    color: $latte-subtext1;
+    font-style: italic;
+  }
+  .cp {
+    color: $latte-peach;
+  }
+  .c1, .cs {
+    color: $latte-subtext1;
+    font-style: italic;
+  }
+  .gd {
+    color: $latte-maroon;
+  }
+  .ge {
+    font-style: italic;
+  }
+  .gr {
+    color: $latte-red;
+  }
+  .gh {
+    color: $latte-blue;
+    font-weight: bold;
+  }
+  .gi {
+    color: $latte-green;
+  }
+  .go {
+    color: $latte-subtext0;
+  }
+  .gp {
+    color: $latte-blue;
+    font-weight: bold;
+  }
+  .gs {
+    font-weight: bold;
+  }
+  .gu {
+    color: $latte-lavender;
+    font-weight: bold;
+  }
+  .gt {
+    color: $latte-sky;
+  }
+  .kc, .kd, .kn {
+    color: $latte-green;
+    font-weight: bold;
+  }
+  .kp {
+    color: $latte-green;
+  }
+  .kr {
+    color: $latte-green;
+    font-weight: bold;
+  }
+  .kt {
+    color: $latte-peach;
+  }
+  .m {
+    color: $latte-subtext0;
+  }
+  .s {
+    color: $latte-pink;
+  }
+  .na {
+    color: $latte-yellow;
+  }
+  .nb {
+    color: $latte-green;
+  }
+  .nc {
+    color: $latte-blue;
+    font-weight: bold;
+  }
+  .no {
+    color: $latte-maroon;
+  }
+  .nd {
+    color: $latte-peach;
+  }
+  .ni {
+    color: $latte-subtext0;
+    font-weight: bold;
+  }
+  .ne {
+    color: $latte-red;
+    font-weight: bold;
+  }
+  .nf {
+    color: $latte-blue;
+  }
+  .nl {
+    color: $latte-yellow;
+  }
+  .nn {
+    color: $latte-blue;
+    font-weight: bold;
+  }
+  .nt {
+    color: $latte-green;
+    font-weight: bold;
+  }
+  .nv {
+    color: $latte-lavender;
+  }
+  .ow {
+    color: $latte-peach;
+    font-weight: bold;
+  }
+  .w {
+    color: $latte-subtext0;
+  }
+  .mf, .mh, .mi, .mo {
+    color: $latte-subtext0;
+  }
+  .sb, .sc {
+    color: $latte-pink;
+  }
+  .sd {
+    color: $latte-pink;
+    font-style: italic;
+  }
+  .s2 {
+    color: $latte-pink;
+  }
+  .se {
+    color: $latte-peach;
+    font-weight: bold;
+  }
+  .sh {
+    color: $latte-pink;
+  }
+  .si {
+    color: $latte-lavender;
+    font-weight: bold;
+  }
+  .sx {
+    color: $latte-green;
+  }
+  .sr {
+    color: $latte-lavender;
+  }
+  .s1 {
+    color: $latte-pink;
+  }
+  .ss {
+    color: $latte-lavender;
+  }
+  .bp {
+    color: $latte-green;
+  }
+  .vc, .vg, .vi {
+    color: $latte-lavender;
+  }
+  .il {
+    color: $latte-subtext0;
+  }
+}

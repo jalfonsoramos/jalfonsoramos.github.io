@@ -1,0 +1,9 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@use "_base";
+@use "_code";
+@use "colors/_macchiato";
+@use "theme/_theme-macchiato";
+@use "syntax-highlighting/_syntax-macchiato";

@@ -1,0 +1,32 @@
+@use "colors/_macchiato" as *;
+
+:root {
+  --base-color: #{$macchiato-blue};
+  --border: dashed 1px #{rgba($macchiato-sapphire, 1)};
+  --selection-background: #{rgba($macchiato-sapphire, 0.5)};
+  --selection-text: #{$macchiato-text};
+  --background-color: #{$macchiato-base};
+  --text-color: #{$macchiato-text};
+  --placeholder-color: #{$macchiato-subtext1};
+  --link-color: #{$macchiato-pink};
+  --inline-code-background: #{$macchiato-surface1};
+
+  --code-color-1: #{$macchiato-green};
+  --code-color-2: #{$macchiato-text};
+  --code-color-3: #{$macchiato-red};
+  --code-color-4: #{$macchiato-maroon};
+  --code-color-5: #{$macchiato-teal};
+  --code-color-6: #{$macchiato-sky};
+  --code-color-7: #{$macchiato-red};
+  --code-color-8: #{$macchiato-teal};
+  --code-color-9: #{$macchiato-blue};
+  --code-color-10: #{$macchiato-blue};
+  --code-color-11: #{$macchiato-text};
+  --code-color-12: #{$macchiato-red};
+  --code-color-13: #{$macchiato-teal};
+  --code-color-14: #{$macchiato-blue};
+  --code-color-15: #{$macchiato-red};
+  --code-color-16: #{$macchiato-teal};
+  --code-color-17: #{$macchiato-red};
+  --code-color-18: #{$macchiato-blue};
+}

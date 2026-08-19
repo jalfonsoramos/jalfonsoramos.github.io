@@ -1,0 +1,36 @@
+/**
+ * Light theme variables (adapted for frappe theme)
+ */
+
+@use "colors/_frappe" as *;
+
+:root {
+    --base-color: #{$frappe-blue};
+    --border: dashed 1px #{rgba($frappe-sapphire, 1)};
+    --selection-background: #{rgba($frappe-sky, 0.5)};
+    --selection-text: #{$frappe-text};
+    --background-color: #{$frappe-base};
+    --text-color: #{$frappe-text};
+    --placeholder-color: #{$frappe-subtext1};
+    --link-color: #{$frappe-pink};
+    --inline-code-background: #{$frappe-surface1};
+
+    --code-color-1: #{$frappe-green};
+    --code-color-2: #{$frappe-text};
+    --code-color-3: #{$frappe-red};
+    --code-color-4: #{$frappe-maroon};
+    --code-color-5: #{$frappe-teal};
+    --code-color-6: #{$frappe-sky};
+    --code-color-7: #{$frappe-red};
+    --code-color-8: #{$frappe-teal};
+    --code-color-9: #{$frappe-blue};
+    --code-color-10: #{$frappe-blue};
+    --code-color-11: #{$frappe-text};
+    --code-color-12: #{$frappe-red};
+    --code-color-13: #{$frappe-teal};
+    --code-color-14: #{$frappe-blue};
+    --code-color-15: #{$frappe-red};
+    --code-color-16: #{$frappe-teal};
+    --code-color-17: #{$frappe-red};
+    --code-color-18: #{$frappe-blue};
+}

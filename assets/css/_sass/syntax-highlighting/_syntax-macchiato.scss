@@ -1,0 +1,180 @@
+@use "colors/_macchiato" as *;
+@use "sass:color";
+
+.highlight {
+  .hll {
+    background-color: $macchiato-surface1;
+  }
+  background: color.adjust($macchiato-surface0, $lightness: 5%);
+  .c {
+    color: $macchiato-subtext1;
+    font-style: italic;
+  }
+  .err {
+    border: 1px solid $macchiato-red;
+  }
+  .k {
+    color: $macchiato-green;
+    font-weight: bold;
+  }
+  .o {
+    color: $macchiato-subtext0;
+  }
+  .cm {
+    color: $macchiato-subtext1;
+    font-style: italic;
+  }
+  .cp {
+    color: $macchiato-peach;
+  }
+  .c1, .cs {
+    color: $macchiato-subtext1;
+    font-style: italic;
+  }
+  .gd {
+    color: $macchiato-maroon;
+  }
+  .ge {
+    font-style: italic;
+  }
+  .gr {
+    color: $macchiato-red;
+  }
+  .gh {
+    color: $macchiato-blue;
+    font-weight: bold;
+  }
+  .gi {
+    color: $macchiato-green;
+  }
+  .go {
+    color: $macchiato-subtext0;
+  }
+  .gp {
+    color: $macchiato-blue;
+    font-weight: bold;
+  }
+  .gs {
+    font-weight: bold;
+  }
+  .gu {
+    color: $macchiato-lavender;
+    font-weight: bold;
+  }
+  .gt {
+    color: $macchiato-sky;
+  }
+  .kc, .kd, .kn {
+    color: $macchiato-green;
+    font-weight: bold;
+  }
+  .kp {
+    color: $macchiato-green;
+  }
+  .kr {
+    color: $macchiato-green;
+    font-weight: bold;
+  }
+  .kt {
+    color: $macchiato-peach;
+  }
+  .m {
+    color: $macchiato-subtext0;
+  }
+  .s {
+    color: $macchiato-pink;
+  }
+  .na {
+    color: $macchiato-yellow;
+  }
+  .nb {
+    color: $macchiato-green;
+  }
+  .nc {
+    color: $macchiato-blue;
+    font-weight: bold;
+  }
+  .no {
+    color: $macchiato-maroon;
+  }
+  .nd {
+    color: $macchiato-peach;
+  }
+  .ni {
+    color: $macchiato-subtext0;
+    font-weight: bold;
+  }
+  .ne {
+    color: $macchiato-red;
+    font-weight: bold;
+  }
+  .nf {
+    color: $macchiato-blue;
+  }
+  .nl {
+    color: $macchiato-yellow;
+  }
+  .nn {
+    color: $macchiato-blue;
+    font-weight: bold;
+  }
+  .nt {
+    color: $macchiato-green;
+    font-weight: bold;
+  }
+  .nv {
+    color: $macchiato-lavender;
+  }
+  .ow {
+    color: $macchiato-peach;
+    font-weight: bold;
+  }
+  .w {
+    color: $macchiato-subtext0;
+  }
+  .mf, .mh, .mi, .mo {
+    color: $macchiato-subtext0;
+  }
+  .sb, .sc {
+    color: $macchiato-pink;
+  }
+  .sd {
+    color: $macchiato-pink;
+    font-style: italic;
+  }
+  .s2 {
+    color: $macchiato-pink;
+  }
+  .se {
+    color: $macchiato-peach;
+    font-weight: bold;
+  }
+  .sh {
+    color: $macchiato-pink;
+  }
+  .si {
+    color: $macchiato-lavender;
+    font-weight: bold;
+  }
+  .sx {
+    color: $macchiato-green;
+  }
+  .sr {
+    color: $macchiato-lavender;
+  }
+  .s1 {
+    color: $macchiato-pink;
+  }
+  .ss {
+    color: $macchiato-lavender;
+  }
+  .bp {
+    color: $macchiato-green;
+  }
+  .vc, .vg, .vi {
+    color: $macchiato-lavender;
+  }
+  .il {
+    color: $macchiato-subtext0;
+  }
+}

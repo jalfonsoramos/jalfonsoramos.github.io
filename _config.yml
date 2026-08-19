@@ -1,0 +1,29 @@
+# Site settings
+title: Alfonso Ramos
+description: "Personal GitHub Pages"
+baseurl: ""
+url: "https://jalfonsoramos.github.io"
+
+# https://jekyllrb.com/docs/configuration/options/
+timezone: America/Tijuana
+
+# Available style options based on catppuccin: latte, frappe, macchiato, mocha
+style_light: latte
+style_dark: mocha
+
+#include pages
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
