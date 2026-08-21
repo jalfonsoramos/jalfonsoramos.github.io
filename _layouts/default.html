@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin">
 <meta http-equiv="Content-Security-Policy" content="
   default-src 'none';
@@ -15,12 +15,12 @@
   base-uri 'self';
 ">
 
-{%- include head.html -%}
+  {%- include head.html -%}
 
-<body>
-  <div class="container">
+  <body>
+    <div class="container">
 
-    {%- include header.html -%}
+      {%- include header.html -%}
 
     <main>
       {{ content }}
@@ -28,7 +28,6 @@
 
     {%- include footer.html -%}
 
-  </div>
-</body>
-
+    </div>
+  </body>
 </html>

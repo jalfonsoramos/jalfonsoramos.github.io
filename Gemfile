@@ -11,7 +11,6 @@ group :jekyll_plugins do
   gem 'jekyll-email-protect'
   gem 'jekyll-feed'
   gem 'jekyll-external-links'
-  gem 'jekyll-sass-converter', '~> 3.0'
 
   #dependency for custom footnotes plugin 
   gem 'nokogiri'

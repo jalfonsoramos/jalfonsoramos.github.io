@@ -5,9 +5,6 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   create-template-branch:
     runs-on: ubuntu-latest
@@ -30,3 +27,4 @@ jobs:
           git rm -rf --cached --ignore-unmatch "_posts" "Gemfile.lock" "README.md"
           git commit -m "Update template branch"
           git push origin template -f
+

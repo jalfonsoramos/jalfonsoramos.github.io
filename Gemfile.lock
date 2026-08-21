@@ -153,7 +153,6 @@ DEPENDENCIES
   jekyll-external-links
   jekyll-feed
   jekyll-paginate
-  jekyll-sass-converter (~> 3.0)
   jekyll-seo-tag
   nokogiri
 
