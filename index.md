@@ -1,7 +1,7 @@
 ---
 title: Alfonso Ramos
 layout: home
-lang: en
+permalink: /
 ---
 
 # Cyber Hero v3.0.2
