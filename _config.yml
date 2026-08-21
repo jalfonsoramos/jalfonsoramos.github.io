@@ -17,7 +17,7 @@ include:
 
 # Assets
 sass:
-  sass_dir: /assets/css/_sass
+  sass_dir: assets/css/_sass
   style: compressed
 
 plugins:
